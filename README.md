@@ -10,5 +10,5 @@ First, export the following environment variable:
 * OVH_REDIR: the URL to which the validation URL will redirect to
 
 Then, run the script and you should get the consumer key as well as the
-validation URL.  Open the validation URL on your browser to validate that
-credential.
+validation URL.
+Open the validation URL in your browser to validate that credential.
