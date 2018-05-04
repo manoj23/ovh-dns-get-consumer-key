@@ -5,7 +5,9 @@ This script depends on:
 * sh
 * cURL
 
-First, export the following environment variable:
+Get the application key on [https://eu.api.ovh.com/createApp/].
+
+Then, export the following environment variable:
 * OVH_AK: the OVH application key
 * OVH_REDIR: the URL to which the validation URL will redirect to
 
